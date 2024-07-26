@@ -1,0 +1,9 @@
+node_modules
+**/*/build
+dist
+.idea
+*/build
+*/out.txt
+*env
+**/*/*env
+out.txt
